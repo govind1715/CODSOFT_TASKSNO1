@@ -1,0 +1,8 @@
+Employee_ID,Name,Age,Department,Salary,Joining_Date
+101,Rahul,25.0,It,30000.0,2024-01-10
+102,Priya,28.0,Hr,45000.0,2023-05-15
+103,Amit,28.0,It,35000.0,2024-03-20
+104,Sneha,30.0,Finance,40000.0,2022-08-12
+105,Unknown,26.0,Hr,40000.0,2023-11-01
+106,Karan,29.0,It,50000.0,2024-02-10
+107,Neha,32.0,Finance,55000.0,2022-06-15
